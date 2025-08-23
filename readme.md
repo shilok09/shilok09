@@ -11,7 +11,7 @@
 <h3 align="left">AI Automation Engineer | LangChain n8n | DS Fast’27 | Building AI Agents</h3>
 
 <p align="left">
-I’m Shilok Kumar, a 22-year-old from Islamabad with a passion for AI automation. I love finding smarter ways to simplify work, connect systems, and turn complex processes into smooth, automated flows. For me, it’s about blending problem-solving with creativity, and I’m always curious about the next idea to explore.
+I’m Shilok Kumar, a 20-year-old from Islamabad with a passion for AI automation. I love finding smarter ways to simplify work, connect systems, and turn complex processes into smooth, automated flows. For me, it’s about blending problem-solving with creativity, and I’m always curious about the next idea to explore.
 </p>
 
 ## GitHub Stats  
