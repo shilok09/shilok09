@@ -24,9 +24,9 @@ I’m Shilok Kumar, a 20-year-old from Islamabad with a passion for AI automatio
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=shilok09&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilok09&theme=merko&hide_border=false" />
-      </td>
+        <td>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shilok09&theme=merko" />
+        </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilok09&theme=merko&hide_border=false&layout=compact" />
       </td>
